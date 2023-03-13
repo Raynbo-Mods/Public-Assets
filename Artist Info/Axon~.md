@@ -1,10 +1,10 @@
 # Axon~ Info
 ## Contact
-Discord: Axon~#6025__
+Discord: Axon~#6025  
 Discord Server: https://discord.gg/PqfTuUtjSv
 
 ## contributions
-FiberglassTubes.png__
-PlasticCasing.png__
-ReinforcedBarrel.png__
-RubberShells.png__
+FiberglassTubes.png  
+PlasticCasing.png  
+ReinforcedBarrel.png  
+RubberShells.png

@@ -1,7 +1,7 @@
 # RainbowIris323 Info
 ## Contact
-Discord: RainbowIris333#0583__
-Email: rainbowiris323@gmail.com__
+Discord: RainbowIris333#0583  
+Email: rainbowiris323@gmail.com  
 GitHub: RainbowIris323
 
 ## contributions
